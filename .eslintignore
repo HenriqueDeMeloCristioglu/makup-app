@@ -1,0 +1,14 @@
+app.json
+.env
+.env.development
+.gitignore
+babel.config.js
+expo-env.d.ts
+package-lock.json
+package-.json
+node_modeules
+.expo
+dist
+metro.config.js
+tsconfig.josn
+.eslintrc.js
